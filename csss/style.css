@@ -1,0 +1,326 @@
+/* global style start here */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box !important;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header,
+section {
+    overflow-x: hidden;
+}
+
+p {
+    font-family: 15px;
+}
+
+.global_container {
+    width: 1122px;
+    margin: 0 auto;
+}
+
+
+/* global styl end here */
+
+
+/* navbar section start here */
+
+.navbar {
+    background: #dbf4fe;
+    padding-left: 107px;
+    padding-right: 107px;
+    padding-top: 40px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: #000000 !important;
+}
+
+.nav-link {
+    font-size: 15px;
+    color: #000000 !important;
+}
+
+
+/* navbar section end here */
+
+
+/* banner section start here */
+
+.banner_section {
+    background: #dbf4fe;
+}
+
+.banner {
+    padding-left: 288px;
+    padding-right: 158px;
+    padding-top: 60px;
+    padding-bottom: 190px;
+}
+
+.right_column {
+    margin-top: 100px;
+}
+
+.banner_img {
+    width: 700px;
+    width: 700px;
+}
+
+.banner_h1 {
+    font-size: 77px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner_pragrapg {
+    margin-top: 50px;
+}
+
+
+/* banner section end here */
+
+
+/* services section start here */
+
+.services {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.inner_service {
+    margin-top: 70px;
+}
+
+.service_top_colmun {
+    text-align: center;
+}
+
+.services_paragraph {
+    color: #3b8df3;
+}
+
+.services_heading {
+    font-size: 45px;
+    margin-top: 50px;
+}
+
+.Our_Experts {
+    text-align: center;
+    border: 2px solid #dbf4fe;
+    width: 350px;
+    height: 400px;
+}
+
+.fa-apple-whole {
+    margin-top: 50px;
+    font-size: 45px;
+    color: #3b8df3;
+}
+
+.services_heading_2 {
+    margin-top: 25px;
+    font-size: 30px;
+}
+
+.services_paragraph_2 {
+    margin-top: 30px;
+}
+
+.services_paragraph_3 {
+    margin-top: 30px;
+}
+
+.On_Time {
+    text-align: center;
+    border: 2px solid #dbf4fe;
+    width: 350px;
+    height: 400px;
+}
+
+.fa-clock {
+    margin-top: 50px;
+    font-size: 45px;
+    color: #3b8df3;
+}
+
+.Work_Projects {
+    text-align: center;
+    border: 2px solid #dbf4fe;
+    width: 350px;
+    height: 400px;
+}
+
+.fa-laptop {
+    margin-top: 50px;
+    font-size: 45px;
+    color: #3b8df3;
+}
+
+
+/* services section end here */
+
+
+/* portfolio section start here */
+
+.potfolio {
+    background: #f4fcff;
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+
+.potfolio_img {
+    width: 526px;
+}
+
+.potfolio_left_column {
+    margin-top: 174px;
+}
+
+.potfolio_paragraph {
+    color: #3b8df3
+}
+
+.potfolio_paragraph_1 {
+    text-align: justify;
+}
+
+
+/* portfoloi section end here */
+
+
+/* testmonial section start here */
+
+.main_container {
+    width: 1122px;
+    margin: 0 auto;
+}
+
+.testonial {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.testmonial_top_column {
+    text-align: center;
+}
+
+.testmonial_top_paragraph {
+    color: #3b8df3;
+}
+
+.test_monial_heading {
+    font-size: 45px;
+}
+
+.testmonial_inner {
+    width: 500px;
+    height: 280px;
+    border: 2px solid #dbf4fe;
+    margin-top: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.test_monial_down_row {
+    margin-left: 50px;
+}
+
+.star_icon {
+    margin-left: 100px;
+    color: #ffba00;
+}
+
+.images_test_down {
+    float: left;
+}
+
+.test_paragraph_middle {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.test_paragraph_down {
+    margin-left: 100px;
+}
+
+.img_test_up {
+    float: right;
+}
+
+
+/* testmonial section end here */
+
+
+/* footer section start here */
+
+.footer {
+    background: #2b333e;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.main_conatiner_footer {
+    width: 1122px;
+    margin: 0 auto;
+}
+
+.footer_row {
+    margin-left: 50px;
+}
+
+.footer_heading {
+    color: white;
+}
+
+.footer_top_paragraph {
+    color: white;
+}
+
+.footer_main_paragraph {
+    color: #6e737b;
+}
+
+.footer_icon {
+    color: white;
+    padding: 15px;
+    background: #2b333e;
+    border: 1px solid white;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.fa-youtube {
+    margin-left: 10px;
+}
+
+.fa-instagram {
+    margin-left: 10px;
+}
+
+hr {
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.copy_right {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 20px;
+    margin-bottom: 0;
+    text-align: center;
+    color: #6e737b;
+}
+
+
+/* footer section end here */
